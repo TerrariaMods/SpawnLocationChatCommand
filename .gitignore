@@ -16,6 +16,10 @@
 # User-specific files (MonoDevelop/Xamarin Studio)
 *.userprefs
 
+# Terraria simple check-in ignores
+*.sln
+*.csproj
+
 # Build results
 [Dd]ebug/
 [Dd]ebugPublic/
